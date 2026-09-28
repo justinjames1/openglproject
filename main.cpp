@@ -1,6 +1,5 @@
-#include "glad/glad.h"
-#include <GLFW/glfw3.h>
-#include <iostream>
+#include "dependices.h"
+
 
 const char* fragmentShaderSource = 
     "#version 330 core\n"
