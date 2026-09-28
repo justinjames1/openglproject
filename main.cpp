@@ -1,4 +1,4 @@
-#include "dependices.h"
+#include "dependencies.h"
 
 
 const char* fragmentShaderSource = 
