@@ -51,7 +51,7 @@ float vertices[] = {
      0.5f, -0.5f, 0.0f,
      0.0f,  0.5f, 0.0f
 };
-
+//honest to god the codes so fucking awful its held together with tape. one fucking feature and it dismembers. i really gotta recode this shit.
 
 unsigned int VBO;
 glGenBuffers(1, &VBO);
